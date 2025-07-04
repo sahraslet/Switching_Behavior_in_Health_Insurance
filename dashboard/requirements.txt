@@ -1,0 +1,9 @@
+pandas 
+scikit-learn 
+joblib 
+transformers 
+fuzzywuzzy 
+python-Levenshtein
+streamlit
+xgboost
+lightgbm
