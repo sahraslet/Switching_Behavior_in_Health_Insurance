@@ -38,7 +38,7 @@ Machine learning (ML) models can support churn prediction, but often lack interp
 - Identification of key churn predictors and **switching personas**
 - Workflow is shown in following figure:
 
-(images\workflow.png)
+(workflow_.png)
 
 ---
 
