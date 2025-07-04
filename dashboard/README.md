@@ -16,5 +16,9 @@ Once you have downloaded the folder you can access the dashboard simply by runni
 The dashboard will open and you can now insert the file **preprocessed_servery_data.csv**.
 In the dashboard, you can choose between several models to see their predictions.
 
+# Excel Dashboard
+
+We also provide screenshots of our Excel dashboard that shows the actual class distributions:
+
 ![Dashboard Screenshot](excel_dashboard_1.png)
 ![Dashboard Screenshot](excel_dashboard_2.png)
