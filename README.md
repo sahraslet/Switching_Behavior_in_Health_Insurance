@@ -4,6 +4,8 @@
 This project analyzes switching behavior in the health insurance sector.  
 The goal is to compare different machine learning models for churn prediction and investigate how explainable AI (XAI) methods can reveal key factors behind customers' switching intentions.
 
+![workflow](workflow_.png)
+
 ### Research Questions
 
 - **RQ1:** Which customer characteristics are most predictive of switching behavior?  
@@ -36,9 +38,7 @@ Machine learning (ML) models can support churn prediction, but often lack interp
 - Evaluation using **F1 score**, **Recall** and **Precision**  
 - Explanation of model outputs using **SHAP** and **LIME**  
 - Identification of key churn predictors and **switching personas**
-- Workflow is shown in following figure:
 
-![workflow](workflow_.png)
 
 ---
 
