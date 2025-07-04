@@ -15,3 +15,5 @@ Once you have downloaded the folder you can access the dashboard simply by runni
 ## Step 3:
 The dashboard will open and you can now insert the file **preprocessed_servery_data.csv**.
 In the dashboard, you can choose between several models to see their predictions.
+
+![Dashboard Screenshot](dashboard/excel_dashboard_1.png)
