@@ -1,7 +1,7 @@
 # Switching_Behavior_in_Health_Insurance
 ## Project Description
 
-This project analyzes switching behavior in the health insurance sector.  
+This project analyzes **switching behavior** in the health insurance sector.  
 The goal is to compare different machine learning models for churn prediction and investigate how explainable AI (XAI) methods can reveal key factors behind customers' switching intentions.
 
 ![workflow](workflow_.png)
